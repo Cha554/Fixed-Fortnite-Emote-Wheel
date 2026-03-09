@@ -14,7 +14,7 @@ The emote wheel from Fortnite, directly ported to Gorilla Tag.
 
 # Installation
 
-- Download the release from [here](https://github.com/iiDk-the-actual/FortniteEmoteWheel/releases/latest)
+- Download the release from [here]([https://github.com/iiDk-the-actual/FortniteEmoteWheel/releases/latest](https://github.com/Cha554/Fixed-Fortnite-Emote-Wheel/releases/tag/releases))
 - Drag the file `FortniteEmoteWheel.dll` to your plugins folder
 - Start Gorilla Tag if needed
 
